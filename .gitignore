@@ -1,2 +1,9 @@
+scala.iml
+.idea/
+target/
+*/.solution.json
+*/target/
+*/project/
+*/.idea/
 *.class
 *.log
